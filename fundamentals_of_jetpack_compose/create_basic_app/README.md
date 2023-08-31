@@ -7,4 +7,4 @@ Build first app with Jetpack Compose at Google Developer {codelab}
   </h3>
 </div>
 <hr/>
-<img src="example.jpg" alt="screenshot of application"/>
+<img src="example.jpg" alt="screenshot of application" style="width : 200px"/>
