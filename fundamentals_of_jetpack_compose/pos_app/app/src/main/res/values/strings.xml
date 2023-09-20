@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pos_app</string>
+
+    <string name="hint_email">Masukkan email</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="content_description_leading_icon_email">email_icon</string>
+    <string name="content_description_leading_icon_password">password_icon</string>
+    <string name="label_checkbox_remember_me">Remember me</string>
+    <string name="text_btn_login">Login</string>
+
+    <string name="copyright">Copyright rmxburhan@2023</string>
+</resources>

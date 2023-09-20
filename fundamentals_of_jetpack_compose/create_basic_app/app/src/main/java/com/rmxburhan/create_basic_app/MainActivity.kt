@@ -53,7 +53,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             Create_basic_appTheme(dynamicColor = false) {
-                // A surface container using the 'background' color from the theme
                MyApp(modifier = Modifier.fillMaxSize())
             }
         }

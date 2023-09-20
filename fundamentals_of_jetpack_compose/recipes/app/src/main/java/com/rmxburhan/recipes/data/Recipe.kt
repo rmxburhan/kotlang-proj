@@ -1,7 +1,7 @@
 package com.rmxburhan.recipes.data
 
 import androidx.annotation.DrawableRes
-import com.juraj.recipes.R
+import com.rmxburhan.recipes.R
 
 // I have prepared the following data structures and resources to skip the boring part
 
